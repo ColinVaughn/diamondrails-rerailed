@@ -1,7 +1,13 @@
-# Diamond Rails
-[Download on Modrinth](https://modrinth.com/mod/diamond-rails)
+# Diamond Rails - Rerailed
+[Download on Modrinth](soon)
 
-A mod to make minecarts useful in the late game by adding three new types of much faster powered rails.
+A mod that is a continuation of the mod [Diamond Rails](https://github.com/arthomnix/diamondrails)
+
+
+## Goals
+### Carts
+### More rail variants (Ex jumping)
+### Blocks
 
 ## Rail Types
 ### Powered Rails (included for comparison)
