@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "base": {
+        "item": "diamondrails:enhanced_diamond_rail"
+    },
+    "addition": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "result": {
+        "item": "diamondrails:netherite_rail"
+    }
+}
